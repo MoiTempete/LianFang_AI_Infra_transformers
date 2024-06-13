@@ -40,9 +40,6 @@ checkpoint: 检查点
 -->
 
 <p align="center">
-    <br>
-    <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/transformers_logo_name.png" width="400"/>
-    <br>
 </p>
 <p align="center">
     <a href="https://circleci.com/gh/huggingface/transformers"><img alt="Build" src="https://img.shields.io/circleci/build/github/huggingface/transformers/main"></a>
@@ -75,10 +72,6 @@ checkpoint: 检查点
     <p>为 Jax、PyTorch 和 TensorFlow 打造的先进的自然语言处理</p>
 </h3>
 
-<h3 align="center">
-    <a href="https://hf.co/course"><img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/course_banner.png"></a>
-</h3>
-
 🤗 Transformers 提供了数以千计的预训练模型，支持 100 多种语言的文本分类、信息抽取、问答、摘要、翻译、文本生成。它的宗旨是让最先进的 NLP 技术人人易用。
 
 🤗 Transformers 提供了便于快速下载和使用的API，让你可以把预训练模型用在给定文本、在你的数据集上微调然后通过 [model hub](https://huggingface.co/models) 与社区共享。同时，每个定义的 Python 模块均完全独立，方便修改和快速研究实验。
@@ -100,11 +93,6 @@ checkpoint: 检查点
 
 **[Write With Transformer](https://transformer.huggingface.co)**，由抱抱脸团队打造，是一个文本生成的官方 demo。
 
-## 如果你在寻找由抱抱脸团队提供的定制化支持服务
-
-<a target="_blank" href="https://huggingface.co/support">
-    <img alt="HuggingFace Expert Acceleration Program" src="https://huggingface.co/front/thumbnails/support.png" style="max-width: 600px; border: 1px solid #eee; border-radius: 4px; box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);">
-</a><br>
 
 ## 快速上手
 
