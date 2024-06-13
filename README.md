@@ -18,7 +18,7 @@ limitations under the License.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://huggingface.co/datasets/huggingface/documentation-images/raw/main/transformers-logo-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://huggingface.co/datasets/huggingface/documentation-images/raw/main/transformers-logo-light.svg">
-   
+    <！--img alt="Hugging Face Transformers Library" src="https://huggingface.co/datasets/huggingface/documentation-images/raw/main/transformers-logo-light.svg" width="352" height="59" style="max-width: 100%;">
   </picture>
   <br/>
   <br/>
@@ -53,10 +53,6 @@ limitations under the License.
 
 <h3 align="center">
     <p>State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow</p>
-</h3>
-
-<h3 align="center">
-    <a href="https://hf.co/course"><img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/course_banner.png"></a>
 </h3>
 
 🤗 Transformers provides thousands of pretrained models to perform tasks on different modalities such as text, vision, and audio.
